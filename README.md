@@ -9,7 +9,7 @@ primaire vérifiée.
 | Sujet | Le chiffre |
 |---|---|
 | [Un chien, un chat](https://github.com/VincentChabran/combien-coute-un-chien-un-chat) | 783 €/an pour un chien, 571 €/an pour un chat |
-| [Un mariage](https://github.com/VincentChabran/combien-coute-un-mariage) | environ 20 210 € |
+| [Un mariage](https://github.com/VincentChabran/combien-coute-un-mariage) | 19 293 € |
 | [Un déménagement](https://github.com/VincentChabran/combien-coute-un-demenagement) | environ 1 239,56 € |
 | [Une rentrée scolaire](https://github.com/VincentChabran/combien-coute-une-rentree-scolaire) | 488 € |
 | [Des vacances d'été](https://github.com/VincentChabran/combien-coutent-des-vacances-ete) | 1 748 € |
