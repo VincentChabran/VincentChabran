@@ -15,6 +15,8 @@ primaire vérifiée.
 | [Des vacances d'été](https://github.com/VincentChabran/combien-coutent-des-vacances-ete) | 1 748 € |
 | [Noël](https://github.com/VincentChabran/combien-coute-noel) | 491 € |
 | [Un bébé (0-3 ans), par mois](https://github.com/VincentChabran/combien-coute-un-bebe) | 490 €/mois |
+| [La Saint-Valentin](https://github.com/VincentChabran/combien-coute-la-saint-valentin) | 154 € (chez les couples qui la fêtent) |
 
-Chaque dépôt contient la décomposition complète, poste par poste, et la source primaire citée —
-jamais un chiffre sans elle.
+Chaque dépôt contient la décomposition disponible et sourcée, et la source primaire citée — jamais
+un chiffre sans elle. Quand une étude ne publie pas de décomposition par poste (c'est le cas pour
+la Saint-Valentin), le dépôt le dit explicitement plutôt que d'en inventer une.
