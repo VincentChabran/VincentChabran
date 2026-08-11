@@ -17,8 +17,10 @@ primaire vérifiée.
 | [Un bébé (0-3 ans), par mois](https://github.com/VincentChabran/combien-coute-un-bebe) | 490 €/mois |
 | [La Saint-Valentin](https://github.com/VincentChabran/combien-coute-la-saint-valentin) | 154 € (chez les couples qui la fêtent) |
 | [La Fête des Mères et des Pères](https://github.com/VincentChabran/combien-coute-la-fete-des-meres-et-des-peres) | 77 € vs 76 € |
+| [Halloween](https://github.com/VincentChabran/combien-coute-halloween) | 85 € (étude 2024) |
 
 Chaque dépôt contient la décomposition disponible et sourcée, et la source primaire citée — jamais
 un chiffre sans elle. Quand une étude ne publie pas de décomposition par poste (c'est le cas pour
 la Saint-Valentin et la Fête des Mères/Pères), le dépôt le dit explicitement plutôt que d'en
 inventer une.
+
