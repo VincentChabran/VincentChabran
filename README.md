@@ -1,3 +1,5 @@
+![Visites](https://visitor-badge.laobi.icu/badge?page_id=vincentchabran.VincentChabran.pages)
+
 # On a compté
 
 Ici, ce que les autres affirment, on le chiffre et on montre la source. Pas d'avis, pas de
