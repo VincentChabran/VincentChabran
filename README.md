@@ -23,6 +23,7 @@ primaire vérifiée.
 | [Des obsèques](https://vincentchabran.github.io/combien-coute-des-obseques/) | 4 730 € |
 | [La garde d'un enfant](https://vincentchabran.github.io/combien-coute-la-garde-d-enfant/) | 138 € à 344 €/mois de reste à charge selon le mode (2024) |
 | [Un permis de conduire](https://vincentchabran.github.io/combien-coute-un-permis-de-conduire/) | 1 335 € pour 20 h, en moyenne 35 h nécessaires |
+| [Papiers d'identité perdus](https://vincentchabran.github.io/combien-coute-papiers-identite-perdus/) | 136 € (carte d'identité + permis + passeport) |
 
 Chaque dépôt contient la décomposition disponible et sourcée, et la source primaire citée — jamais
 un chiffre sans elle. Quand une étude ne publie pas de décomposition par poste (c'est le cas pour
