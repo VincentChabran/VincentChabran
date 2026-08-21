@@ -26,6 +26,7 @@ primaire vérifiée.
 | [Papiers d'identité perdus](https://vincentchabran.github.io/combien-coute-papiers-identite-perdus/) | 136 € (carte d'identité + permis + passeport) |
 | [Un accident de voiture](https://vincentchabran.github.io/combien-coute-un-accident-de-voiture/) | 2 250 € pour un accrochage responsable (jusqu'a 6 731 € pour un incendie) |
 | [Une rentrée étudiante loin du foyer](https://vincentchabran.github.io/combien-coute-une-rentree-etudiante/) | 14 221 €/an de reste à charge (non boursier, grande ville) |
+| [Un sinistre habitation](https://vincentchabran.github.io/combien-coute-un-sinistre-habitation/) | 14 069 € pour un incendie, 11 fois plus qu'un dégât des eaux (1 263 €) |
 
 Chaque dépôt contient la décomposition disponible et sourcée, et la source primaire citée — jamais
 un chiffre sans elle. Quand une étude ne publie pas de décomposition par poste (c'est le cas pour
