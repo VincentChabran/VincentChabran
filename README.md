@@ -31,6 +31,8 @@ primaire vérifiée.
 | [Une voiture neuve](https://vincentchabran.github.io/combien-coute-une-voiture-neuve/) | 36 700 € (moyenne toutes motorisations, 2025), 68 % de plus en électrique qu'en essence |
 | [Des lunettes](https://vincentchabran.github.io/combien-coutent-des-lunettes/) | 340 € (verres simples), la Sécu en rembourse 0,09 € (2021) |
 | [Un appareil dentaire](https://vincentchabran.github.io/combien-coute-un-appareil-dentaire/) | 600 à 1 200 €/semestre, la Sécu en rembourse 193,50 € |
+| [Un appareil auditif](https://vincentchabran.github.io/combien-coute-un-appareil-auditif/) | 1 315 € par oreille (DREES 2023), la Sécu en rembourse 240 € |
+| [Une colonie de vacances](https://vincentchabran.github.io/combien-coute-une-colonie-de-vacances/) | 960 € le prix médian d'une semaine, 200 à 350 € de Pass Colo |
 
 Chaque dépôt contient la décomposition disponible et sourcée, et la source primaire citée — jamais
 un chiffre sans elle. Quand une étude ne publie pas de décomposition par poste (c'est le cas pour
